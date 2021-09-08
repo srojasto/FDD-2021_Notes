@@ -1,6 +1,6 @@
 ## asuntos
-- agregar a Saul y Cabanillas -> Solangel
-- correo a maciej para preguntar por el estatus de la FEE (TCM y PM) -> Solangel
+- ~~agregar a Saul y Cabanillas -> Solangel~~
+- ~~correo a maciej para preguntar por el estatus de la FEE (TCM y PM) -> Solangel~~
 - Correo para Chistoph, Ildefonos y Guillermo para preguntar su opinión sobre esto (hacer incapié en que es antes de stable-beam): -> Solangel
 	* Esperar correo de cabanillas con discucion con tatiana
 	*  **Beam tuning** Que necesitamos, investigar que es lo más conveniente para FDD, consultar con expertos de electrónica? 
