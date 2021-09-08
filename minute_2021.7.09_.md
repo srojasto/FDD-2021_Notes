@@ -46,7 +46,8 @@ They are located in our room in point 2 (the place where you left the scope), in
 	- Calibración laser: 
 		* ajustar tiempos para sincronizar con FEE -> calcular los delays <- Solangel
 		* Instalar: **cable de control (TCM - attenuador/SW), ref.PMT, dos splitters**, **exta delays** <-Tonatiuh y David
-		* Instalar placa de aluminio -> Tonatiuh y David
+		* Instalar placa de aluminio -> Tonatiuh y David\
+	- Instalación de las extensiones de los cables de señal en el lado C
 	
 
 
