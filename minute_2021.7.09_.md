@@ -11,8 +11,7 @@
 		* TCM -> installada y conectada
 		* IPBus -> conectado
 		* GBT cables -> buscar e instalar <- Tonatiuh, Saul
-		* Maciej email: 
-
+>**Maciej email:**
 >Just install them (carefully, because we don't have spares; probably FLP team has some, but within FIT we don't). 
 >From the patch-panel on top of the C35 rack to your TCM.
 >They are located in our room in point 2 (the place where you left the scope), in the bottommost drawer next to FIT cabinet. Please pay attention and take only the fibers, that are labelled for FDD (there are also fibres for FT0 there). You need to find two fibres: 'Rx' and 'Tx' or 'Data'.
